@@ -3,6 +3,7 @@
 [![NPM version](https://badge.fury.io/js/jquery-lazy.svg)](http://www.npmjs.org/package/jquery-lazy)
 [![Bower version](https://badge.fury.io/bo/jquery-lazy.svg)](http://bower.io/search/?q=jquery-lazy)
 [![Dependencies Status](https://david-dm.org/eisbehr-/jquery.lazy/status.svg)](https://david-dm.org/eisbehr-/jquery.lazy)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/jquery-lazy/badge?style=rounded)](https://www.jsdelivr.com/package/npm/jquery-lazy)
 [![devDependencies Status](https://david-dm.org/eisbehr-/jquery.lazy/dev-status.svg)](https://david-dm.org/eisbehr-/jquery.lazy?type=dev)
 
 ---
